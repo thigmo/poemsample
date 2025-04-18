@@ -4,4 +4,5 @@ that are no good at sea
 oar,
 anchor,
 rudder,
+sails
 and the fear of going under
